@@ -1,0 +1,86 @@
+node_modules
+
+# Ignorar archivos de sistema de macOS
+.DS_Store
+
+# Ignorar carpetas específicas (si es necesario)
+.vscode/
+
+# Archivos del sistema
+/.CFUserTextEncoding
+/.DS_Store
+/.anydesk/
+/.config/
+/.gitconfig
+/.idlerc/
+/.lesshst
+/.mongodb/
+/.mysql_history
+/.node_repl_history
+/.npm/
+/.pgadmin/
+/.viminfo
+/.vscode/
+/.zprofile
+/.zsh_history
+/.zsh_sessions/
+
+# Archivos de descargas
+/Downloads/
+
+# Archivos de música
+/Music/
+
+# Archivos de películas
+/Movies/
+
+# Otros archivos
+/Options.txt
+/Documents/
+/Pictures/
+/Public/
+../../../.CFUserTextEncoding
+../../../.DS_Store
+../../../.anydesk/
+../../../.config/
+../../../.gitconfig
+../../../.idlerc/
+../../../.lesshst
+../../../.mongodb/
+../../../.mysql_history
+../../../.node_repl_history
+../../../.npm/
+../../../.pgadmin/
+../../../.viminfo
+../../../.vscode/
+../../../.zprofile
+../../../.zsh_history
+../../../.zsh_sessions/
+../../../Applications/
+../../../Cursos/
+../../.DS_Store
+../../.localized
+../../Sesssions Live/
+../.DS_Store
+"../Captura de pantalla 2025-02-18 a la(s) 8.10.57 p.\342\200\257m..png"
+../CoderCamp/
+../Full stack developer/
+../SQL Databases/
+"../S\303\241bado 19 de octubre 2024- Sala Vocos Lescano- Taller de Lengua de se\303\261as..docx"
+../Typescript/
+../certificados/
+.DS_Store
+React - FreeCodeCamp/
+React - Redux/
+Redux/
+../../documentos importantes/
+../../fotos/
+../../proyecto bibliotecas populares/
+../../../Documents/
+../../../Downloads/
+../../../Library/
+../../../Movies/
+../../../Music/
+../../../Options.txt
+../../../Pictures/
+../../../Public/
