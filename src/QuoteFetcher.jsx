@@ -5,7 +5,7 @@ const RANDOM_QUOTE_URL = "https://inspo-quotes-api.herokuapp.com/quotes/random";
 
 export default function QuoteFetcher(){
     const [quote, setQuote] = useState({text: "", author: ""});
-    const [randoColor, setRandoColor] = useState(""); // Estado para el color aleatorio
+    const [randoColor, setRandoColor] = useState(""); 
 
     useEffect(() => { 
         fetchQuote();

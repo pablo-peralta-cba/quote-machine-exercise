@@ -72,7 +72,6 @@ body {
   display: block;
 }
 #quote-box .buttons .button {
-  /* height: 38px; */
   border: none;
   border-radius: 3px;
   color: #fff;
@@ -80,7 +79,6 @@ body {
   outline: none;
   font-size: 0.85em;
   padding: 8px 18px 6px 18px;
-  /* margin-top: 30px; */
   opacity: 1;
   cursor: pointer;
 }
@@ -90,7 +88,8 @@ body {
   height: 1em;
   font-size: 1em;
   font-weight: 400;
-  color: red
+  color: red;
+  cursor: pointer;
 }
 #quote-box .buttons .button:hover {
   opacity: 0.9;
@@ -107,4 +106,5 @@ body {
 }
 #quote-box .buttons .button#new-quote {
   float: right;
+  cursor: pointer;
 }
